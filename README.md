@@ -3,14 +3,16 @@
 A simple, low-cost, and portable analog circuit that detects human pulse activity using an optical pulse sensor and the LM358 operational amplifier. Built as an academic project at the **Department of Electronics and Communication Engineering, National Institute of Technology, Raipur**.
  
 ---
- 
-## Team
- 
-- Mehak Gupta (24116058)
-- Agrima Adarsh (24116006)
-**Branch:** ECE | **Semester:** 4th
-**Project Supervisor:** Dr. Mayur Katwe, Dept. of ECE, NIT Raipur
- 
+## Circuit Diagram
+<img width="1250" height="867" alt="image" src="https://github.com/user-attachments/assets/ceb02962-e156-49d6-b0fb-f6a87a42abcf" />
+ ## Bread-Board Implementation
+ <img width="446" height="625" alt="image" src="https://github.com/user-attachments/assets/cf7fc803-92e9-4f74-9734-b82c713171fa" />
+ ## Artium design and Schamatic
+ <img width="1226" height="931" alt="image" src="https://github.com/user-attachments/assets/707fa514-83f6-4728-afe2-c2c01f7520ff" />
+
+## PCB Fabrication 
+<img width="666" height="889" alt="image" src="https://github.com/user-attachments/assets/e7ad1a02-7308-4268-866b-f08867f30a21" />
+
 ---
  
 ## Table of Contents
@@ -194,6 +196,11 @@ The Pulse Rate Monitoring System using the LM358 operational amplifier was succe
 While the system does not provide a numerical BPM readout, it reliably indicates pulse activity and serves as a valuable educational and demonstration tool. The design is simple, economical, and portable, and can be extended in future work with **microcontrollers, digital displays, and wireless communication** for more advanced health-monitoring applications.
  
 ---
+ ## Team
  
+- Mehak Gupta (24116058)
+- Agrima Adarsh (24116006)
+**Branch:** ECE | **Semester:** 4th
+**Project Supervisor:** Dr. Mayur Katwe, Dept. of ECE, NIT Raipur
 *Department of Electronics and Communication Engineering, National Institute of Technology, Raipur*
  
