@@ -5,13 +5,24 @@ A simple, low-cost, and portable analog circuit that detects human pulse activit
 ---
 ## Circuit Diagram
 <img width="1250" height="867" alt="image" src="https://github.com/user-attachments/assets/ceb02962-e156-49d6-b0fb-f6a87a42abcf" />
+
+
+
+
  ## Bread-Board Implementation
  <img width="446" height="625" alt="image" src="https://github.com/user-attachments/assets/cf7fc803-92e9-4f74-9734-b82c713171fa" />
+
+
+ 
  ## Artium design and Schamatic
- <img width="1226" height="931" alt="image" src="https://github.com/user-attachments/assets/707fa514-83f6-4728-afe2-c2c01f7520ff" />
+ <img width="446" height="625" alt="image" src="https://github.com/user-attachments/assets/707fa514-83f6-4728-afe2-c2c01f7520ff" />
+
+ 
 
 ## PCB Fabrication 
-<img width="666" height="889" alt="image" src="https://github.com/user-attachments/assets/e7ad1a02-7308-4268-866b-f08867f30a21" />
+<img width="446" height="625" alt="image" src="https://github.com/user-attachments/assets/e7ad1a02-7308-4268-866b-f08867f30a21" />
+
+
 
 ---
  
