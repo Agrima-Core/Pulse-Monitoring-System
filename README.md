@@ -1,6 +1,6 @@
 # Pulse Rate Monitoring System using LM358 IC
  
-A simple, low-cost, and portable analog circuit that detects human pulse activity using an optical pulse sensor and the LM358 operational amplifier. Built as an academic project at the **Department of Electronics and Communication Engineering, National Institute of Technology, Raipur**.
+A simple, low-cost, and portable analog circuit that detects human pulse activity using an optical pulse sensor and the LM358 operational amplifier. 
  
 ---
 ## Circuit Diagram
